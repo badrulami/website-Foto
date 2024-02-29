@@ -19,10 +19,10 @@ tampilan registari
 ![image](https://github.com/badrulami/website-Foto/assets/161669020/dc61e13f-8846-4db1-95b2-aa6ae3732c40)
 
 tampilan foto/galery
-![image](https://github.com/badrulami/website-Foto/assets/161669020/d6c5d4ed-d149-4509-a2c5-48b4860b3ff4)
+
 
 tampilan hapus foto
-![image](https://github.com/badrulami/website-Foto/assets/161669020/d26474f7-0bba-40d2-ad1c-7bf668a0c88b)
+![image](https://github.com/badrulami/website-Foto/assets/161669020/d6c5d4ed-d149-4509-a2c5-48b4860b3ff4)
 
 **cara instal**
  hal yang harus dipersiapkan
