@@ -8,7 +8,13 @@ fitur
 -Data foto/galery(untuk mengunggah foto yang sudah di screenhoot program)
 -Hapus foto(untuk menghapus foto yang tidak di perlu lagi)
 -Tambah foto(menambah foto yang ingin di upload ke dalam fitur)
-![image](https://github.com/badrulami/website-Foto/assets/161669020/36ee567b-33c4-4fbb-b72f-cdef4563499a)
+
+tampilan untuk login: 
+![image](https://github.com/badrulami/website-Foto/assets/161669020/49832d4e-e7c5-4b98-843a-e462b9bb374b)
+
+tampilan logout:
+![image](https://github.com/badrulami/website-Foto/assets/161669020/9f0907be-83fc-432f-9ec9-88b5ff102093)
+
 
 **cara instal**
  hal yang harus dipersiapkan
